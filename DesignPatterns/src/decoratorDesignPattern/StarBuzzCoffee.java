@@ -13,5 +13,4 @@ public class StarBuzzCoffee {
 		
 		System.out.println(beverage2.getDescription() + " " + beverage2.cost());
 	}
-
 }
