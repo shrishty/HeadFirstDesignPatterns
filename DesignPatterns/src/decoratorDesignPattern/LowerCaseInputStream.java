@@ -8,7 +8,6 @@ public class LowerCaseInputStream extends FilterInputStream {
 
 	public LowerCaseInputStream(InputStream io) {
 		super(io);
-		// TODO Auto-generated constructor stub
 	}
 
 	@Override
