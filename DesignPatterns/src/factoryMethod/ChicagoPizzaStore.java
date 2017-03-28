@@ -1,4 +1,4 @@
-package factoryDesignPattern;
+package factoryMethod;
 
 public class ChicagoPizzaStore extends PizzaStore {
 
